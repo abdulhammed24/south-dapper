@@ -19,3 +19,18 @@ export const getProducts = asyncHandler(async (req, res) => {
 
   res.send(products);
 });
+
+//get single post
+export const getProduct = asyncHandler(async (req, res) => {
+  const { id } = req.params;
+  const product = await Product.findById(id);
+
+  if (product) {
+    res.json(product);
+  } else {
+    res.status(404);
+    throw new Error("Product not found");
+  }
+});
+
+const getProductById = asyncHandler(async (req, res) => {});

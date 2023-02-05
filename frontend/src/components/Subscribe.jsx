@@ -14,7 +14,7 @@ const Subscribe = () => {
                         <div className="subscribeFormGroup">
                             <input type="text" placeholder='Your Name' required/>
                             <input type="text" placeholder='Your Email Address' required/>
-                            <button><FaPaperPlane /></button>
+                            <button className='flex justify-center items-center'><FaPaperPlane /></button>
                         </div>
                     </div>
                 </form>
