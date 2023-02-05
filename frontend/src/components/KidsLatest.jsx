@@ -26,7 +26,7 @@ const KidsLatest = () => {
               <div className='sliderImgDiv'>
                 <div className="sliderImgTop">
                   <div className="sliderImgTopInner">
-                    <img src="./assets/uploads/kid-01.jpg" alt="" className="sliderImage" />
+                    <img src="/assets/uploads/kid-01.jpg" alt="" className="sliderImage" />
                   </div>
                   <div className="sliderImgTopHover">
                     <Link to='/product/3423' className="sliderImgLink">
@@ -53,7 +53,7 @@ const KidsLatest = () => {
               <div className='sliderImgDiv'>
                 <div className="sliderImgTop">
                   <div className="sliderImgTopInner">
-                    <img src="./assets/uploads/kid-02.jpg" alt="" className="sliderImage" />
+                    <img src="/assets/uploads/kid-02.jpg" alt="" className="sliderImage" />
                   </div>
                   <div className="sliderImgTopHover">
                     <Link to='/' className="sliderImgLink">
@@ -80,7 +80,7 @@ const KidsLatest = () => {
               <div className='sliderImgDiv'>
                 <div className="sliderImgTop">
                   <div className="sliderImgTopInner">
-                    <img src="./assets/uploads/kid-03.jpg" alt="" className="sliderImage" />
+                    <img src="/assets/uploads/kid-03.jpg" alt="" className="sliderImage" />
                   </div>
                   <div className="sliderImgTopHover">
                     <Link to='/' className="sliderImgLink">
@@ -107,7 +107,7 @@ const KidsLatest = () => {
               <div className='sliderImgDiv'>
                 <div className="sliderImgTop">
                   <div className="sliderImgTopInner">
-                    <img src="./assets/uploads/kid-01.jpg" alt="" className="sliderImage" />
+                    <img src="/assets/uploads/kid-01.jpg" alt="" className="sliderImage" />
                   </div>
                   <div className="sliderImgTopHover">
                     <Link to='/' className="sliderImgLink">

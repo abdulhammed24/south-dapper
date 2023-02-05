@@ -13,42 +13,42 @@ const Socials = () => {
         <div className="socialsBottom">
           <div className="socialsBottomImages">
             <div className="socialsBottomImg">
-              <img src="./assets/uploads/instagram-01.jpg" alt="" />
+              <img src="/assets/uploads/instagram-01.jpg" alt="" />
               <div className="socialsHover">
                 <Link to='/'>Fashion</Link>
                 <FaInstagram />
               </div>
             </div>
             <div className="socialsBottomImg">
-              <img src="./assets/uploads/instagram-02.jpg" alt="" />
+              <img src="/assets/uploads/instagram-02.jpg" alt="" />
               <div className="socialsHover">
                 <Link to='/'>New</Link>
                 <FaInstagram />
               </div>
             </div>
             <div className="socialsBottomImg">
-              <img src="./assets/uploads/instagram-03.jpg" alt="" />
+              <img src="/assets/uploads/instagram-03.jpg" alt="" />
               <div className="socialsHover">
                 <Link to='/'>Brand</Link>
                 <FaInstagram />
               </div>
             </div>
             <div className="socialsBottomImg">
-              <img src="./assets/uploads/instagram-04.jpg" alt="" />
+              <img src="/assets/uploads/instagram-04.jpg" alt="" />
               <div className="socialsHover">
                 <Link to='/'>Makeup</Link>
                 <FaInstagram />
               </div>
             </div>
             <div className="socialsBottomImg">
-              <img src="./assets/uploads/instagram-05.jpg" alt="" />
+              <img src="/assets/uploads/instagram-05.jpg" alt="" />
               <div className="socialsHover">
                 <Link to='/'>Leather</Link>
                 <FaInstagram />
               </div>
             </div>
             <div className="socialsBottomImg">
-              <img src="./assets/uploads/instagram-06.jpg" alt="" />
+              <img src="/assets/uploads/instagram-06.jpg" alt="" />
               <div className="socialsHover">
                 <Link to='/'>Bag</Link>
                 <FaInstagram />

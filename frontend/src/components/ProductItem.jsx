@@ -7,7 +7,7 @@ const ProductItem = ({product}) => {
     <div className='sliderImgDiv'>
         <div className="sliderImgTop product">
             <div className="sliderImgTopInner">
-                <img src={`./assets/uploads/${product.image}`} alt={product.name} className="sliderImage" />
+                <img src={`/assets/uploads/${product.image}`} alt={product.name} className="sliderImage" />
             </div>
             <div className="sliderImgTopHover">
                 <Link to={`/product/${product._id}`} className="sliderImgLink">

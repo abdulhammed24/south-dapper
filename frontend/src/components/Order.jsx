@@ -49,7 +49,7 @@ const Order = () => {
                         <div className='cartItemsDiv orderDiv'key={product._id}>    
                             <div className="cartItemsTop product orderProduct" >
                                 <div className="cartItemsTopInner orderImageDiv">
-                                    <img src={`../assets/uploads/${product.image}`} alt="" className="sliderImage" />
+                                    <img src={`/assets/uploads/${product.image}`} alt="" className="sliderImage" />
                                 </div>
                                 <div className="cartItemsTopHover orderHover">
                                     <Link to={`/product/${product._id}`} className="cartItemsLink">

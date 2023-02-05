@@ -6,7 +6,7 @@ const Form = () => {
         <div className='form'>
             <div className="formDiv">
                 <div className="formTop">
-                    <img src="./assets/uploads/about-us-page-heading.jpg" alt="" />
+                    <img src="/assets/uploads/about-us-page-heading.jpg" alt="" />
                     <div className="formTexts">
                         <h2>Contact Us</h2>
                         <span>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>

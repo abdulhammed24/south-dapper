@@ -10,7 +10,7 @@ const Intro = () => {
             <h2 className="introTitle">We are RicpeShop</h2>
             <Link to='/products' className='introLink'>Purchase Now!</Link>
           </div>
-          <img src="./assets/uploads/left-banner-image.jpg" alt="" />
+          <img src="/assets/uploads/left-banner-image.jpg" alt="" />
         </div>
       </div>
       <div className="introRight">
@@ -21,7 +21,7 @@ const Intro = () => {
                 <h3 className="introRightTitle">Women</h3>
                 <p className="introRightDesc">Best Clothes for Women</p>
               </div>
-              <img src="./assets/uploads/baner-right-image-01.jpg" alt="" />
+              <img src="/assets/uploads/baner-right-image-01.jpg" alt="" />
             </div>
             <div className="introRightHover">
               <div className="introRightHoverTexts">
@@ -37,7 +37,7 @@ const Intro = () => {
                 <h3 className="introRightTitle">Men</h3>
                 <p className="introRightDesc">Best Clothes for Men</p>
               </div>
-              <img src="./assets/uploads/baner-right-image-02.jpg" alt="" />
+              <img src="/assets/uploads/baner-right-image-02.jpg" alt="" />
             </div>
             <div className="introRightHover">
               <div className="introRightHoverTexts">
@@ -53,7 +53,7 @@ const Intro = () => {
                 <h3 className="introRightTitle">Kids</h3>
                 <p className="introRightDesc">Best Clothes for Kids</p>
               </div>
-              <img src="./assets/uploads/baner-right-image-03.jpg" alt="" />
+              <img src="/assets/uploads/baner-right-image-03.jpg" alt="" />
             </div>
             <div className="introRightHover">
               <div className="introRightHoverTexts">
@@ -69,7 +69,7 @@ const Intro = () => {
                 <h3 className="introRightTitle">Accessories</h3>
                 <p className="introRightDesc">Best Trend for Accessories</p>
               </div>
-              <img src="./assets/uploads/baner-right-image-04.jpg" alt="" />
+              <img src="/assets/uploads/baner-right-image-04.jpg" alt="" />
             </div>
             <div className="introRightHover">
               <div className="introRightHoverTexts">

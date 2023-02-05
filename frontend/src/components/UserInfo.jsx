@@ -31,7 +31,7 @@ const UserInfo = ({user}) => {
                 </div>
             </div>
             <div className="accountContentGroupsRight">
-                <img src={`./assets/uploads/${user?.image}`} alt={user?.username} />
+                <img src={`/assets/uploads/${user?.image}`} alt={user?.username} />
             </div>
         </>
     )

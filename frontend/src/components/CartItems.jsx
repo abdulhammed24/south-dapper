@@ -40,7 +40,7 @@ const CartItems = () => {
                                                 <div className='cartItemsDiv'>
                                                     <div className="cartItemsTop product">
                                                         <div className="cartItemsTopInner">
-                                                            <img src={`./assets/uploads/${product.image}`} alt={product.name} className="sliderImage" />
+                                                            <img src={`/assets/uploads/${product.image}`} alt={product.name} className="sliderImage" />
                                                         </div>
                                                         <div className="cartItemsTopHover">
                                                             <Link to='/product/23234' className="cartItemsLink">

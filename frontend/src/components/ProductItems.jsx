@@ -21,7 +21,7 @@ const ProductItems = () => {
         <div className='productsItems'>
             <div className="productsItemsDiv">
                 <div className="productsItemsTop">
-                    <img src="./assets/uploads/products-page-heading.jpg" alt="" />
+                    <img src="/assets/uploads/products-page-heading.jpg" alt="" />
                     <div className="productsItemsTexts">
                         <h2>Check Our Products</h2>
                         <span>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>

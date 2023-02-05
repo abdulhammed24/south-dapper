@@ -45,7 +45,7 @@ const ProductDetails = () => {
         <div className='productDetails'>
             <div className="productDetailsDiv">
                 <div className="productDetailsTop">
-                    <img src="../assets/uploads/products-page-heading.jpg" alt="" />
+                    <img src="/assets/uploads/products-page-heading.jpg" alt="" />
                     <div className="productDetailsTexts">
                         <h2>Single Product Page</h2>
                         <span>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
@@ -54,10 +54,10 @@ const ProductDetails = () => {
                 <div className="productDetailsBottom">
                     <div className="productDetailsBottomLeft">
                         <div className="productDetailsBottomImg">
-                            <img src={`../assets/uploads/${product.image}`} alt={product.name} />
+                            <img src={`/assets/uploads/${product.image}`} alt={product.name} />
                         </div>
                         <div className="productDetailsBottomImg">
-                            <img src={`../assets/uploads/${product.imageOne}`} alt={product.name} />
+                            <img src={`/assets/uploads/${product.imageOne}`} alt={product.name} />
                         </div>
                     </div>
                     <div className="productDetailsBottomRight">

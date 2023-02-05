@@ -28,12 +28,12 @@ const Explore = () => {
             </div>
             <div className="exploreDivCard">
               <div className="exploreDivImg">
-                <img src="./assets/uploads/explore-image-01.jpg" alt="" />
+                <img src="/assets/uploads/explore-image-01.jpg" alt="" />
               </div>
             </div>
             <div className="exploreDivCard">
               <div className="exploreDivImg">
-                <img src="./assets/uploads/explore-image-02.jpg" alt="" />
+                <img src="/assets/uploads/explore-image-02.jpg" alt="" />
               </div>
             </div>
             <div className="exploreDivCard">

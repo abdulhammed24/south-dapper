@@ -7,7 +7,7 @@ const AboutUs = () => {
     <div className='aboutUs'>
         <div className="aboutUsDiv">
             <div className="aboutUsTop">
-                <img src="./assets/uploads/about-us-page-heading.jpg" alt="" />
+                <img src="/assets/uploads/about-us-page-heading.jpg" alt="" />
                 <div className="aboutUsTexts">
                     <h2>About Our Company</h2>
                     <span>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
@@ -16,7 +16,7 @@ const AboutUs = () => {
             <div className="aboutUsBottom">
                 <div className="aboutUsBottomLeft">
                     <div className="aboutUsBottomImg">
-                        <img src="./assets/uploads/about-left-image.jpg" alt="" />
+                        <img src="/assets/uploads/about-left-image.jpg" alt="" />
                     </div>
                 </div>
                 <div className="aboutUsBottomRight">
@@ -49,7 +49,7 @@ const AboutUs = () => {
             <div className="aboutUsImages">
                 <div className="aboutUsImage">
                     <div className="aboutUsImageTop">
-                        <img src="./assets/uploads/team-member-01.jpg" alt="" />
+                        <img src="/assets/uploads/team-member-01.jpg" alt="" />
                         <div className="aboutUsImageHover">
                             <Link to='/'><FaFacebook /></Link>
                             <Link to='/'><FaInstagram /></Link>
@@ -65,7 +65,7 @@ const AboutUs = () => {
                 </div>
                 <div className="aboutUsImage">
                     <div className="aboutUsImageTop">
-                        <img src="./assets/uploads/team-member-02.jpg" alt="" />
+                        <img src="/assets/uploads/team-member-02.jpg" alt="" />
                         <div className="aboutUsImageHover">
                             <Link to='/'><FaFacebook /></Link>
                             <Link to='/'><FaInstagram /></Link>
@@ -81,7 +81,7 @@ const AboutUs = () => {
                 </div>
                 <div className="aboutUsImage">
                     <div className="aboutUsImageTop">
-                        <img src="./assets/uploads/team-member-03.jpg" alt="" />
+                        <img src="/assets/uploads/team-member-03.jpg" alt="" />
                         <div className="aboutUsImageHover">
                             <Link to='/'><FaFacebook /></Link>
                             <Link to='/'><FaInstagram /></Link>
@@ -106,17 +106,17 @@ const AboutUs = () => {
                 <div className="aboutUsImgDiv">
                     <h4>Synther Vaporware</h4>
                     <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita magnam voluptas illo neque omnis aliquam, molestiae nostrum dolorem minus odit officia nesciunt asperiores quia sint reiciendis est.</span>
-                    <img src="./assets/uploads/service-01.jpg" alt="" />
+                    <img src="/assets/uploads/service-01.jpg" alt="" />
                 </div>
                 <div className="aboutUsImgDiv">
                     <h4>Locavore Squidward</h4>
                     <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita magnam voluptas illo neque omnis aliquam, molestiae nostrum dolorem minus odit officia nesciunt asperiores quia sint reiciendis est.</span>
-                    <img src="./assets/uploads/service-02.jpg" alt="" />
+                    <img src="/assets/uploads/service-02.jpg" alt="" />
                 </div>
                 <div className="aboutUsImgDiv">
                     <h4>Health Gothfam</h4>
                     <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita magnam voluptas illo neque omnis aliquam, molestiae nostrum dolorem minus odit officia nesciunt asperiores quia sint reiciendis est.</span>
-                    <img src="./assets/uploads/service-03.jpg" alt="" />
+                    <img src="/assets/uploads/service-03.jpg" alt="" />
                 </div>
             </div>
         </div>
